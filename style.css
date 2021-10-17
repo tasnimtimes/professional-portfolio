@@ -6,6 +6,7 @@ body{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin: 10%;
 }
 .header-part{
     width: 50%;
@@ -25,5 +26,19 @@ h1{
     font-size: 50px;
 }
 .header-part img{
+    width: 100%;
+}
+#dream-area{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.dream-area-part{
+    width: 50%;
+    padding-right: 5%;
+}
+.dream-area-part img{
     width: 100%;
 }
