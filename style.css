@@ -61,13 +61,13 @@ h1{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, red,tomato,);
+    border-image: linear-gradient(180deg, red, green);
     border-image-slice: 1;
     padding: 10px;
 }
 #baby-web{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, rgb(25, 63, 167),rgb(30, 161, 201),);
+    border-image: linear-gradient(180deg, rgb(168, 185, 235),rgb(30, 161, 201));
     border-image-slice: 1;  
     padding: 10px;
 }
